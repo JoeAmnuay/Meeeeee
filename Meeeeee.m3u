@@ -10,7 +10,7 @@ https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/pla
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png"group-title="DIGITAL TV",Mono29
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Npsb1kD/152-1522651-true-logo-png-removebg-preview.png"group-title="DIGITAL TV", TRUE Thai Film
-http://royalibox.com/live/8g5665q36d/rj9c9ucrhl/1776050.m3u8
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truethaifilm.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w1905166033_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT-ภาคกลาง
