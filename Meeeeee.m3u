@@ -566,6 +566,49 @@ https://www.fm91bkk.com:9170/stream.mp3
 #EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/10/images-1.jpg" group-title="Radio",73. KU RADIO+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/91.0.4472.124 Safari/537.36
 
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio1-1.gif",RADIO 73
+https://radio12.plathong.net/7346/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio1-2.gif",RADIO 74
+https://radio12.plathong.net/8660/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio1-3.gif",RADIO 75
+https://radio12.plathong.net/8648/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio2.gif",RADIO 76
+https://radio12.plathong.net/9912/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio3.gif",RADIO 77
+https://radio12.plathong.net/9924/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio3-1.gif",RADIO 78
+https://radio12.plathong.net/7354/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio4.gif",RADIO 79
+https://radio12.plathong.net/7356/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio4-1.gif",RADIO 80
+https://radio12.plathong.net/7358/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio5.gif",RADIO 81
+https://radio12.plathong.net/8704/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio5-1.gif",RADIO 82
+https://radio12.plathong.net/9918/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio6.gif",RADIO 83
+https://radio12.plathong.net/7350/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio6-1.gif",RADIO 84
+https://radio12.plathong.net/7352/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio7.gif",RADIO 85
+https://radio12.plathong.net/9914/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio8.gif",RADIO 86
+https://radio12.plathong.net/9916/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio9.gif",RADIO 87
+https://radio12.plathong.net/9936/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio9-1.gif",RADIO 88
+https://radio12.plathong.net/7348/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio10.gif",RADIO 89
+https://radio12.plathong.net/9920/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio11.gif",RADIO 90
+https://radio12.plathong.net/9922/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio12.gif",RADIO 91
+https://radio12.plathong.net/9926/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio14.gif",RADIO 92
+https://radio12.plathong.net/9932/;stream.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.voiceofnavy.com/imgs/radio15.gif",RADIO 93
+https://radio12.plathong.net/9934/;stream.mp3
+
 
 #EXTINF:-1 tvg-name="X4 | Elle Lee"tvg-id=""tvg-logo=""group-title="XXX CHANNELS",X4 | Elle Lee
 http://fortv.cc:8080/eribeau2121@gmail.com/y8Qx5U8mK4/215793
