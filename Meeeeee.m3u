@@ -554,9 +554,6 @@ https://audio-edge-jfbmv.sin.d.radiomast.io/ce7b352b-a993-4451-8c9c-9c6e615402f8
 #EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/on-air-1-1.png" group-title="Radio",70. FM 91 TRAFFIC PRO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/91.0.4472.124 Safari/537.36
 https://www.fm91bkk.com:8900/;stream.mp3
-#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/09/เธ•เธเธ”-560x560.jpg" group-title="Radio",71. FM 104
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/91.0.4472.124 Safari/537.36
-https://cdn-th2.livestreaming.in.th/shoutcast/8650
 
 #EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png" group-title="Radio",72. AM 1098 kHz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/91.0.4472.124 Safari/537.36
